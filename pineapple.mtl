@@ -1,0 +1,10 @@
+# MTL file for a pineapple material
+
+newmtl PineappleMaterial
+Ka 1.000 1.000 1.000
+Kd 0.871 0.549 0.212
+Ks 0.741 0.517 0.212
+d 1.0
+illum 2
+map_Ka texture/pineapple_color.jpg
+map_Kd texture/pineapple_color.jpg
